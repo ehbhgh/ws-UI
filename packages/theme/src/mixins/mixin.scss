@@ -1,0 +1,4 @@
+//声明公共的sass方法
+//把配置全部引入
+@use "config" as *;
+@forward "config"
