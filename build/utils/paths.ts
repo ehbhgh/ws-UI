@@ -9,3 +9,8 @@ export const distPath=(key:string)=>{
 
 
 export const outDir=path.resolve(__dirname,'../../dist')
+
+
+export const compInputPath=path.resolve(__dirname,'../../packages/ws-plus')
+
+export const componentsPath=path.resolve(projectPath,'packages/components')
